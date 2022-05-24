@@ -1,4 +1,3 @@
-import pgzrun
 from random import randint
 
 WIDTH = 800
@@ -120,5 +119,3 @@ def update():
            balloon.collidepoint(tree.x, tree.y):
             game_over = True
             update_high_scores()
-
-pgzrun.go()
