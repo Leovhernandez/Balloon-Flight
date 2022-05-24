@@ -1,3 +1,4 @@
+# Compile in the Command Line/Terminal using Pygame Zero by typing: pgzrun pathname
 # Balloon Flight is a game where the player clicks on the screen to keep the balloon up
 # The balloon must not collide with the bird and house actors
 # If the balloon collides with a bird/house or touches the bottom/top of the screen the game is over
